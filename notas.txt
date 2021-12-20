@@ -1,2 +1,4 @@
 Esta es mi primer versión de las notas.
 Mis notas las anoto aquí.
+
+1. Subir el repositorio
